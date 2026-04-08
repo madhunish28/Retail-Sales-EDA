@@ -1,6 +1,6 @@
 # Retail Sales EDA
 
-# 📌 Objective
+## 📌 Objective
 Analyze retail sales data to uncover patterns and business insights.
 
 ## Tools Used
